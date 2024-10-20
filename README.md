@@ -11,7 +11,7 @@ HOW TO USE
 
 
 ASSUMPTIONS
-    - All the train, station, and passenger names are assumed to be of lenght less than or equal to thirty.
+    - All the train, station, and passenger names are assumed to be of length less than or equal to thirty.
     - It is assumed that the user names does not contain intermediate blank spaces.
     - It is assumed that all trains ply on all days. Train routes are scheduled assuming 2022-12-01 is the first day, later days represent the offset of trains starting from the first day. All further days will follow the similar schedules.
     - All train and station IDs are assumed to be of length exactly equal to five and and contain only digits.
